@@ -1,0 +1,1 @@
+print("ihave a cat\nhe is very inteligent\ni call him giture\ni love him so much")
