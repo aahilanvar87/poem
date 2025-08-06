@@ -1,2 +1,1 @@
-print("ihave a cat\nhe is very inteligent\ni call him giture\ni love him so much")
-print("today is my first python day\ntommorow i use python")
+print("my name is aahil anvar\nfrom class 6b\ni like working in python\nand i like to play games and read books")

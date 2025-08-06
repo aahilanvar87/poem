@@ -1,1 +1,4 @@
-("my name is aahil anvar\nfrom class 6b\ni like working in python\nand i like to play games and read books")
+a = 2
+b = 3
+sum = a + b
+print(sum)
