@@ -1,1 +1,1 @@
-("my name is aahil anvar from class 6B\ncan you tell my dream car?\nyes meserdes c class\nmy father buys nissan magnite\n i love my car so much")
+print("my name is aahil anvar from class 6B\ncan you tell my dream car?\nyes meserdes c class\nmy father buys nissan magnite\n i love my car so much")
